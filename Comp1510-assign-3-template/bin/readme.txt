@@ -1,4 +1,4 @@
-[Student Name], [Student ID], [Set], [Date]
+[Jay Wang], [A01291640], [B], [11-28-2021]
 
 This assignment is [enter percent]% complete.
 

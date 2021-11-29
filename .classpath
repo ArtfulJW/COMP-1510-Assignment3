@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Comp1510-assign-3-template/src"/>
+	<classpathentry kind="lib" path="__MACOSX/Comp1510-assign-3-template/lib/._checkstyle-8.44-all.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/Comp1510-assign-3-template/mods/._apiguardian-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/Comp1510-assign-3-template/mods/._junit-jupiter-api-5.7.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/Comp1510-assign-3-template/mods/._junit-platform-commons-1.7.0.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/Comp1510-assign-3-template/mods/._opentest4j-1.2.0.jar"/>
+	<classpathentry kind="lib" path="Comp1510-assign-3-template/lib/checkstyle-8.44-all.jar"/>
+	<classpathentry kind="lib" path="Comp1510-assign-3-template/mods/apiguardian-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="Comp1510-assign-3-template/mods/junit-jupiter-api-5.7.0.jar"/>
+	<classpathentry kind="lib" path="Comp1510-assign-3-template/mods/junit-platform-commons-1.7.0.jar"/>
+	<classpathentry kind="lib" path="Comp1510-assign-3-template/mods/opentest4j-1.2.0.jar"/>
+	<classpathentry kind="output" path="Comp1510-assign-3-template/bin"/>
+</classpath>
