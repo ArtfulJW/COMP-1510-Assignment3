@@ -9,6 +9,10 @@ import java.util.Arrays;
  */
 public class Course {
     
+    /**
+     * Instance Variable.
+     */
+    public static final int SIX = 6;
     
     /**
      * Array of Students attending this "Course".
@@ -39,10 +43,15 @@ public class Course {
     public void addStudent(Student... input) {
         // Copy and Add "input" into end of studentArray
         // System.out.println("Length of input: " + input.length);
-        studentArray = Arrays.copyOfRange(input, 0, input.length);
+        
         //for (Student i : studentArray) {
         //    System.out.print(i);
         //}
+        
+        studentArray = Arrays.copyOfRange(input, 0, input.length);
+        if (studentArray.length >=  SIX) {
+            throw new IllegalArgumentException("Too many Students.");
+        }
     }
     
     /**
