@@ -12,10 +12,19 @@ public class TestMIXChar {
     
     //the following are for reference, you may want to move them or copy them 
     //to another class.
+    /**
+     * Instance Variable.
+     */
     private static final char DELTA = '\u0394';
     
+    /**
+     * Instance Variable.
+     */
     private static final char SIGMA = '\u03A3';
     
+    /**
+     * Instance Variable.
+     */
     private static final char PI = '\u03A0';
     
     /**

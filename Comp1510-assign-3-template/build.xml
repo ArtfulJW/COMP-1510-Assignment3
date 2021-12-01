@@ -12,7 +12,7 @@
      classpath="lib/checkstyle-8.44-all.jar"/>
 
   <!-- REPLACE THIS NAME WITH YOUR OWN -->
-  <property name="studentName" value="Bloggs,Fred"/>
+  <property name="studentName" value="Wang,Jay"/>
 
   <property environment="env"/>
   <property name="build" location="build"/>
